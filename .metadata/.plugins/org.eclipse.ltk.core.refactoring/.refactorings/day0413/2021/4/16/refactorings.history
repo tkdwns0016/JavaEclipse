@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MyConnect.java&apos; to &apos;day0414/src/day0414.homework&apos;&#x0D;&#x0A;- Original project: &apos;day0413&apos;&#x0D;&#x0A;- Destination element: &apos;day0414/src/day0414.homework&apos;&#x0D;&#x0A;- Original element: &apos;day0413.dbconnect.MyConnect.java&apos;" description="Copy compilation unit" destination="=day0414/src&lt;day0414.homework" element1="/src&lt;day0413.dbconnect{MyConnect.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1618379128819" units="1" version="1.0"/>
+</session>

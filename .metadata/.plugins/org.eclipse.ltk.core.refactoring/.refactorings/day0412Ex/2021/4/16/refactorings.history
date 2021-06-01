@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;day0412Ex.MyConnector&apos; to &apos;MyStatement&apos;&#x0D;&#x0A;- Original project: &apos;day0412Ex&apos;&#x0D;&#x0A;- Original element: &apos;day0412Ex.MyConnector&apos;&#x0D;&#x0A;- Renamed element: &apos;day0412Ex.MyStatement&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MyConnector&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;day0412Ex{MyConnector.java[MyConnector" matchStrategy="1" name="MyStatement" qualified="false" references="true" similarDeclarations="false" stamp="1618211950444" textual="false" version="1.0"/>
+</session>

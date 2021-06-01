@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;MyConnect.java&apos; to &apos;day0416MarvelMovie/src/day0416MarvelMovie&apos;&#x0D;&#x0A;- Original project: &apos;day0416MarvelMovie&apos;&#x0D;&#x0A;- Destination element: &apos;day0416MarvelMovie/src/day0416MarvelMovie&apos;&#x0D;&#x0A;- Original element: &apos;MyConnect.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;day0416MarvelMovie" element1="/src&lt;{MyConnect.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1618551546470" units="1" version="1.0"/>
+</session>
